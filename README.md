@@ -3,21 +3,16 @@ We show that a meta-analysis of repeat GWASs (MERG) can detect many significant 
 
 # INSTALL & RUN
 
-Install R (www.r-project.org) & Rstudio (https://www.rstudio.com/)
-Install Shiny package (https://cran.r-project.org/web/packages/shiny/index.html)
-command line
-> install.packages("Shiny")
-Download R codes (https://github.com/kimsc77/COEX-seq/issues/3)
-Unzip COEX-seq.zip
-load server.r and ui.r
-Download Reference Dataset (https://github.com/kimsc77/COEX-seq/issues/2)
+1. Install R (www.r-project.org) & Rstudio (https://www.rstudio.com/)
+2. command line
+> install.packages("metap")
+3. Download R codes (https://github.com/kimsc77/MERG/issues/3)
+4. Unzip COEX-seq.zip
+5. load server.r and ui.r
+6. Download Reference Dataset (https://github.com/kimsc77/COEX-seq/issues/2)
 Ensemble_length.txt
 Entrez_length.txt
 GenBank_length.txt
 GeneSymbol_length.txt
-Run server.r(or ui.r) using Rstudio
-Select Before Measurement : ex) Count
-Select After Measurement : ex) TPM
-Load Input file : ex) example file (https://github.com/kimsc77/COEX-seq/issues/1)
-Click: Header, Seperator
-Click Submit
+7. Run server.r(or ui.r) using Rstudio
+
