@@ -9,6 +9,6 @@ We show that a meta-analysis of repeat GWASs (MERG) can detect many significant 
 4. Download R codes (https://github.com/kimsc77/MERG/issues/1)
 5. Unzip MERG.zip
 6. Load 7 R codes(fishers.R, stouffers.R, Mstouffers.R, pooledZ.r, pooledChi.r, Re.pooledZ.r, Re.pooledChi.r)
-7. > source("RCODE.R") ex) source("fishers.R")
+7. > source("fishers.R")
 
 
