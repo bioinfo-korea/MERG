@@ -6,13 +6,8 @@ We show that a meta-analysis of repeat GWASs (MERG) can detect many significant 
 1. Install R (www.r-project.org) & Rstudio (https://www.rstudio.com/)
 2. command line
 > install.packages("metap")
-3. Download R codes (https://github.com/kimsc77/MERG/issues/3)
-4. Unzip COEX-seq.zip
-5. load server.r and ui.r
-6. Download Reference Dataset (https://github.com/kimsc77/COEX-seq/issues/2)
-Ensemble_length.txt
-Entrez_length.txt
-GenBank_length.txt
-GeneSymbol_length.txt
-7. Run server.r(or ui.r) using Rstudio
+3. Download R codes (https://github.com/kimsc77/MERG/issues/1)
+4. Unzip MERG.zip
+5. load 7 R codes(fishers.R, stouffers.R, Mstouffers.R, pooledZ.r, pooledChi.r, Re.pooledZ.r, Re.pooledChi.r)
+6. 
 
